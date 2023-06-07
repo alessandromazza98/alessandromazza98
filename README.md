@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alessandromazza98
-- 👀 I’m interested in bitcoin and cyber security
+- 👀 I’m interested in bitcoin and cyber security. Now developing smart contract in Rust
 - 📫 How to reach me: alessandro98.mazza@gmail.com
