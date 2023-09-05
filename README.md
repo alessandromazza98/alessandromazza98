@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alessandromazza98
-- 👀 I’m interested in bitcoin and cyber security. Now developing smart contract in Rust
+- 👀 Ethereum Protocol Fellow. Working on execution clients.
 - 📫 How to reach me: alessandro98.mazza@gmail.com
