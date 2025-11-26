@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alessandromazza98
 - 👀 Ethereum Protocol Fellow. Working on execution clients.
-- Co-author of "Mastering Ethereum: 2nd Edition": masteringethereum.xyz
+- Co-author of "Mastering Ethereum: 2nd Edition": [masteringethereum.xyz](https://masteringethereum.xyz)
 - 📫 How to reach me: alessandro98.mazza@gmail.com
